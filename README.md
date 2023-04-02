@@ -1,1 +1,1 @@
-# randompicture
+# randompicture_desktop
